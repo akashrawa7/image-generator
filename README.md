@@ -1,2 +1,1 @@
-# image-generator
-image generation using ai
+# Dunzo-The-Artist
